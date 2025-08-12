@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\herenças\herenças\bin\Debug\net8.0\herenças.exe
+C:\Users\User\source\repos\herenças\herenças\bin\Debug\net8.0\herenças.deps.json
+C:\Users\User\source\repos\herenças\herenças\bin\Debug\net8.0\herenças.runtimeconfig.json
+C:\Users\User\source\repos\herenças\herenças\bin\Debug\net8.0\herenças.dll
+C:\Users\User\source\repos\herenças\herenças\bin\Debug\net8.0\herenças.pdb
+C:\Users\User\source\repos\herenças\herenças\obj\Debug\net8.0\herenças.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\herenças\herenças\obj\Debug\net8.0\herenças.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\herenças\herenças\obj\Debug\net8.0\herenças.AssemblyInfo.cs
+C:\Users\User\source\repos\herenças\herenças\obj\Debug\net8.0\herenças.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\herenças\herenças\obj\Debug\net8.0\herenças.dll
+C:\Users\User\source\repos\herenças\herenças\obj\Debug\net8.0\refint\herenças.dll
+C:\Users\User\source\repos\herenças\herenças\obj\Debug\net8.0\herenças.pdb
+C:\Users\User\source\repos\herenças\herenças\obj\Debug\net8.0\herenças.genruntimeconfig.cache
+C:\Users\User\source\repos\herenças\herenças\obj\Debug\net8.0\ref\herenças.dll
